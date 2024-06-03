@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning arduino and c#
 - 💞️ I’m looking to collaborate on nobody
 - 📫 How to reach me ig, twt, wpp
-- 😄 Pronouns: he, she
+- 😄 Pronouns: he
 - ⚡ Fun fact: I'm currently studying mechatronics, i don't speak english, i speak spanish 
 
 <!---
